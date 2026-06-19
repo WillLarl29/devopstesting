@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          DevOps Testing  <code>CI-CD</code> ESAN Project
+          DevOps Testing  <code>CI-CD</code> ESAN Project (0)
         </p>
 
           Learn more on React CI/CD Pipeline
